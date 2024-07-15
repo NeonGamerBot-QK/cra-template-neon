@@ -1,0 +1,26 @@
+{
+    "name": "@neongamerbot/cra-template",
+    "version": "0.0.1",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "typescript",
+      "custom",
+      "neongamerbot"
+    ],
+    "description": "The base TypeScript template for Create React App Modified by Neon.",
+    "license": "MIT",
+    "engines": {
+      "node": ">=20"
+    },
+    "author": {
+        "name": "neongamerbot",
+        "email": "neon@saahild.com",
+        "url": "https://saahild.com"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }

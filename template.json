@@ -1,0 +1,21 @@
+{
+    "package": {
+      "dependencies": {
+        "@types/node": "^16.7.13",
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0",
+        "typescript": "^4.4.2",
+        "@neongamerbot/credits": "^0.0.1",
+        "daisyui": "latest",
+        "tailwindcss": "latest",
+        "@neongamerbot/utils": "latest",
+        "react-icons": "latest"
+      },
+      "scripts": {
+        "init-tw": "tailwindcss init"
+      },
+      "eslintConfig": {
+        "extends": ["react-app", "react-app/jest"]
+      }
+    }
+  }
