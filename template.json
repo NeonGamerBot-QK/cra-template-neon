@@ -9,7 +9,8 @@
         "daisyui": "latest",
         "tailwindcss": "latest",
         "@neongamerbot/utils": "latest",
-        "react-icons": "latest"
+        "react-icons": "latest",
+        "@catppuccin/daisyui": "latest"
       },
       "scripts": {
         "init-tw": "tailwindcss init"
